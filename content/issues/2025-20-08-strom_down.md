@@ -1,6 +1,6 @@
 ---
 title: Strom issue
-date: 2025-20-08 08:24:00 
+date: 2025-08-20 08:24:00 
 resolved: false
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
