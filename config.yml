@@ -144,8 +144,6 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: NIS Components
-      description: The main servers are located here.
-      closed: true
 
   # These are your systems. Change them to
   # change the amount of components.
